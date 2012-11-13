@@ -9,7 +9,7 @@ public class Hello {
 		//Mariusz ma s³onia
 		//Ala ma kota
 		// KOT MA ALE
-		// SPRAWDZAMY czy sie nam gituje :)
+
 	}
 
 }
