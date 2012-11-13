@@ -8,6 +8,7 @@ public class Hello {
 		System.out.println("Hello world");
 		//Mariusz ma s³onia
 		//Ala ma kota
+		// KOT MA ALE
 	}
 
 }
