@@ -12,6 +12,7 @@ public class Hello {
 		//kurde dlugo z tym walczymy
 		// dawaj mi tu cos
 		// sprawdzimy
+		// zrobmy cos cieakwego:)
 	}
 
 }
