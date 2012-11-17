@@ -11,6 +11,7 @@ public class Hello {
 		System.out.println("hello world");
 		//kurde dlugo z tym walczymy
 		// dawaj mi tu cos
+		// sprawdzimy
 	}
 
 }
