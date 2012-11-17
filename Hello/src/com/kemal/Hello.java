@@ -7,7 +7,7 @@ public class Hello {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hello world");
-		//sprobujemy jeszcze rwaz
+		//sprobujemy jeszcze raz dwa trzy
 
 	}
 
